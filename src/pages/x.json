@@ -1,0 +1,74 @@
+{
+    "msg": [
+        {
+            "id": 5,
+            "createdAt": "2024-08-03T10:31:04.391Z",
+            "desc": "bueruev",
+            "claimType": "Reimbursement",
+            "dateOfIntimation": "2024-08-05T00:00:00.000Z",
+            "claimAmount": "80000",
+            "policyId": 3,
+            "userId": 4,
+            "report": {
+                "id": 1,
+                "combinedSummary": "{\"Summary\": \"A 70-year-old male patient presents with urinary frequency, urgency and urgency urinary incontinence. He is on medication for overactive bladder and diabetes mellitus. The patient has been advised to stop taking concor cor and to start taking Cardivas. He has also been advised to continue taking other medications and to follow up after 3 months. The patient should also avoid over hydration and keep a bladder diary. A 63-year-old male patient presents with ischemic heart disease and is on medication for the condition. The patient has been advised to stop taking concor cor and to start taking Cardivas. He has also been advised to continue taking other medications and to follow up after 3 months.\"}",
+                "estimatedExpenses": 2820,
+                "notes": "Dummy notes",
+                "approved": null,
+                "createdAt": "2024-08-03T10:50:22.850Z",
+                "claimId": 5,
+                "userId": 4
+            },
+            "documents": [
+                {
+                    "id": 19,
+                    "docType": "SCAN",
+                    "name": "scan_1ef51861-1a44-6320-aa7a-a94a08fbcf2f.jpg",
+                    "createdAt": "2024-08-03T10:49:34.916Z",
+                    "originalName": "corona_scan.jpg",
+                    "claimId": 5,
+                    "userId": 4
+                },
+                {
+                    "id": 20,
+                    "docType": "SCAN",
+                    "name": "scan_1ef51861-1ab4-6800-a413-a24aa341e52e.jpg",
+                    "createdAt": "2024-08-03T10:49:34.916Z",
+                    "originalName": "x-ray.jpg",
+                    "claimId": 5,
+                    "userId": 4
+                },
+                {
+                    "id": 21,
+                    "docType": "TEXT",
+                    "name": "text_1ef51861-1aa8-64b0-a62d-2997173e91ec.pdf",
+                    "createdAt": "2024-08-03T10:49:34.916Z",
+                    "originalName": "sample_prescription.pdf",
+                    "claimId": 5,
+                    "userId": 4
+                },
+                {
+                    "id": 22,
+                    "docType": "TEXT",
+                    "name": "text_1ef51861-1aaf-69e0-8b28-88376d46ccd7.pdf",
+                    "createdAt": "2024-08-03T10:49:34.916Z",
+                    "originalName": "sample_prescription_2.pdf",
+                    "claimId": 5,
+                    "userId": 4
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "createdAt": "2024-08-03T10:31:08.057Z",
+            "desc": "bueruev",
+            "claimType": "Reimbursement",
+            "dateOfIntimation": "2024-08-05T00:00:00.000Z",
+            "claimAmount": "80000",
+            "policyId": 3,
+            "userId": 4,
+            "report": null,
+            "documents": []
+        }
+    ]
+}
